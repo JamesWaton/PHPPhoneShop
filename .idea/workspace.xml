@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3fbaaf7-f973-4221-bd12-c93a00f32d36" name="Default Changelist" comment="using php 7 to get data for MySQL">
+      <change beforePath="$PROJECT_DIR$/phone/database/product.php" beforeDir="false" afterPath="$PROJECT_DIR$/phone/database/product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/phone/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/phone" />
+  </component>
+  <component name="ProjectId" id="1hTukMtz8LHrhfL9yjA01FeNRG8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\james\PhpstormProjects\Phone Shop\phone shop\Html Template" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\james\PhpstormProjects\Phone Shop\phone shop\Html Template" />
+      <recent name="C:\Users\james\PhpstormProjects\Phone Shop\phone shop\node_modules" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3fbaaf7-f973-4221-bd12-c93a00f32d36" name="Default Changelist" comment="" />
+      <created>1600047545270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600047545270</updated>
+      <workItem from="1600047546481" duration="3073000" />
+      <workItem from="1600053623660" duration="16353000" />
+      <workItem from="1600205873028" duration="6883000" />
+      <workItem from="1600216015475" duration="5678000" />
+      <workItem from="1600221746608" duration="2348000" />
+      <workItem from="1600246893667" duration="19449000" />
+    </task>
+    <task id="LOCAL-00001" summary="using php 7 to get data for MySQL">
+      <created>1600219877308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600219877308</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="using php 7 get data for MySQL" />
+    <MESSAGE value="using php 7 to get data for MySQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="using php 7 to get data for MySQL" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-316" y="-905" key="#CLI_Interpreters" timestamp="1600118458045">
+      <screen x="-856" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-316" y="-905" key="#CLI_Interpreters/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@-856.-1080.1920.1040" timestamp="1600118458045" />
+    <state x="-189" y="-917" key="#PHP" timestamp="1600118470842">
+      <screen x="-856" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-189" y="-917" key="#PHP/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@-856.-1080.1920.1040" timestamp="1600118470842" />
+    <state x="-304" y="-902" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600206348040">
+      <screen x="-856" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-304" y="-902" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@-856.-1080.1920.1040" timestamp="1600206348040" />
+    <state x="-116" y="-805" key="FileChooserDialogImpl" timestamp="1600052686730">
+      <screen x="-856" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-116" y="-805" key="FileChooserDialogImpl/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@-856.-1080.1920.1040" timestamp="1600052686730" />
+    <state width="198" height="457" key="HiddenNamespacesPopup" timestamp="1600134441619">
+      <screen x="-856" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="198" height="457" key="HiddenNamespacesPopup/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@-856.-1080.1920.1040" timestamp="1600134441619" />
+    <state x="-102" y="-837" key="NewPhpClassDialog" timestamp="1600221779170">
+      <screen x="-856" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-102" y="-837" key="NewPhpClassDialog/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@-856.-1080.1920.1040" timestamp="1600221779170" />
+    <state x="-113" y="-646" key="NewPhpFileDialog" timestamp="1600308968002">
+      <screen x="-856" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-113" y="-646" key="NewPhpFileDialog/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@-856.-1080.1920.1040" timestamp="1600308968002" />
+    <state x="557" y="384" key="NewPhpFileDialog/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@0.0.1440.920" timestamp="1600048043983" />
+    <state x="-856" y="-1080" width="1551" height="710" key="dock-window-1" timestamp="1600130430388">
+      <screen x="-856" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-856" y="-1080" width="1551" height="710" key="dock-window-1/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@-856.-1080.1920.1040" timestamp="1600130430388" />
+    <state x="-240" y="-299" key="run.anything.popup" timestamp="1600051531672">
+      <screen x="-856" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-240" y="-299" key="run.anything.popup/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@-856.-1080.1920.1040" timestamp="1600051531672" />
+    <state x="-233" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1600308481608">
+      <screen x="-856" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-233" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@-856.-1080.1920.1040" timestamp="1600308481608" />
+  </component>
+</project>
